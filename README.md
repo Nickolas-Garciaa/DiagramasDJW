@@ -1,4 +1,5 @@
 # DiagramasDJW
+Feito por: Nickolas Garcia e Vincezo Monaco <br>
 Diagramas de DJW: Classe, Casos de Uso e Atividades. <br>
 
 <br>
