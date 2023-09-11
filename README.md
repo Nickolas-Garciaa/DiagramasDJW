@@ -1,5 +1,7 @@
 # DiagramasDJW
-Diagramas de DJW: Classe, Casos de Uso e Atividades<br>
+Diagramas de DJW: Classe, Casos de Uso e Atividades. <br>
+
+<br>
 
 <h1>Diagrama de Casos De Uso:</h1><br>
 
@@ -20,4 +22,4 @@ Diagramas de DJW: Classe, Casos de Uso e Atividades<br>
 
 <H1>Explicação:</H1>
 <br>
-<h2> O diagrama descreve a relação dos objetos sua ações e interações dentro do jogo.</h2>
+<h2> O diagrama descreve a relação dos objetos sua ações e interações dentro do jogo, mostrando como o jogador possui o jogo ao tentar passar entre as plataformas chegar no seu objetivo</h2>
