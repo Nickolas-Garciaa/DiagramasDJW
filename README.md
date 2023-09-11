@@ -11,3 +11,7 @@ Diagramas de DJW: Classe, Casos de Uso e Atividades<br>
 
 ![Captura de tela 2023-09-10 221110](https://github.com/Nickolas-Garciaa/DiagramasDJW/assets/128262640/e50600a5-df74-473d-9999-1dae90186b5d)
 
+<br>
+<h1>Diagrama De Classe</h1>
+
+![Diagrama de classe djw](https://github.com/Nickolas-Garciaa/DiagramasDJW/assets/128262640/8790aa62-c78f-4534-a917-0085dc31bf9d)
