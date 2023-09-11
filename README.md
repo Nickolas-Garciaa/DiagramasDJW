@@ -15,3 +15,9 @@ Diagramas de DJW: Classe, Casos de Uso e Atividades<br>
 <h1>Diagrama De Classe</h1>
 
 ![Diagrama de classe djw](https://github.com/Nickolas-Garciaa/DiagramasDJW/assets/128262640/8790aa62-c78f-4534-a917-0085dc31bf9d)
+
+<br>
+
+<H1>Explicação:</H1>
+<br>
+<h2> O diagrama descreve a relação dos objetos sua ações e interações dentro do jogo.</h2>
